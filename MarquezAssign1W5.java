@@ -1,6 +1,6 @@
-package com.mycompany.marquezassign2w5;
+package com.mycompany.marquezassign1w5;
 import java.util.Scanner;
-public class MarquezAssign2W5 {
+public class MarquezAssign1W5 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
